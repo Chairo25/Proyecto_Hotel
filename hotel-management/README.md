@@ -1,6 +1,6 @@
 # Gestión de Hotel
 
-# Autores: Jairo Eduardo Pogo Rengel,Jonathan Rodrigo Hernández Ojeda,
+# Autores: Jairo Eduardo Pogo Rengel,Jonathan Rodrigo Hernández Ojeda,Hugo Eduardo Montachana Siza.
 
 Esta es una aplicación web para la gestión de un hotel, desarrollada con **ReactJS** y **TypeScript**, que permite gestionar clientes, habitaciones y reservas. Los datos se almacenan en `localStorage`, asegurando su persistencia incluso después de recargar la página.
 
